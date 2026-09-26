@@ -1,4 +1,8 @@
-# My-First-Repo student-a
+<<<<<<< HEAD
+# My-First-Repo Git Merge Conflict Resolved
+=======
+# My-First-Repo student-b
+>>>>>>> student-b
 
 # Jenny Mae P. Perono
 # 4th Year
